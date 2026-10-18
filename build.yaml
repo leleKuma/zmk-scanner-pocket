@@ -8,4 +8,3 @@ include:
   # Settings reset utility
   - board: xiao_ble/nrf52840
     shield: settings_reset
-

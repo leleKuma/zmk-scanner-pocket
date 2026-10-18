@@ -13,7 +13,8 @@ manifest:
 
     - name: prospector-zmk-module
       remote: prospector
-      revision: feature/scanner-pocket-widgets
+      #revision: feature/scanner-pocket-widgets
+      revision: feature/scanner-pocket-v2.3
       path: modules/prospector-zmk-module
 
   self:
