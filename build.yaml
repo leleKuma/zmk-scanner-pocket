@@ -2,11 +2,11 @@
 include:
   # Scanner Pocket - Sharp Memory LCD (LS013B7DH05)
   #- board: xiao_ble/nrf52840
-  - board: xiao_ble/zmk
+  - board: xiao_ble//zmk
     shield: scanner_pocket
     artifact-name: scanner_pocket
 
   # Settings reset utility
   #- board: xiao_ble/nrf52840
-  - board: xiao_ble/zmk
+  - board: xiao_ble//zmk
     shield: settings_reset
